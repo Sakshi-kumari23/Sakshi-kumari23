@@ -1,373 +1,315 @@
-<div align="center">
+Redesign my GitHub profile README using the content provided, but make the design **more attractive, modern, colourful and premium while still looking professional and tech-focused**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,70:312E81,100:06B6D4&height=250&section=header&text=SAKSHI%20KUMARI&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=18"/>
+### OVERALL STYLE
 
-<br>
+Create a **modern Data Science + AI + technology aesthetic**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=%3E+Data+Science+Student+%F0%9F%93%8A;%3E+Python+%7C+Java+%7C+SQL+%7C+DSA;%3E+AI+%26+Computer+Vision+Enthusiast;%3E+Turning+Data+into+Insights;%3E+Building+Ideas+into+Technology..." alt="Typing SVG"/>
+Use a dark background such as:
 
-<br><br>
+* Deep navy
+* Black
+* Dark charcoal
 
-<a href="https://github.com/Sakshi-kumari23">
-<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-<a href="https://www.linkedin.com/in/sakshi-rajput-7069082a0">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
-</a>
-<a href="https://leetcode.com/u/Sakshi2923/">
-<img src="https://img.shields.io/badge/LEETCODE-0B1120?style=for-the-badge&logo=leetcode&logoColor=FACC15"/>
-</a>
-<a href="mailto:sakshisingh231204@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=F472B6"/>
-</a>
+Use colour **selectively**, mainly for highlighting important information:
 
-<br><br>
+* Electric cyan
+* Purple / violet
+* Blue
+* Small touches of pink
 
-<img src="https://komarev.com/ghpvc/?username=Sakshi-kumari23&label=VISITORS&color=06B6D4&style=for-the-badge"/>
+Do NOT make the whole README neon or overly colourful.
 
-</div>
+The design should feel:
+
+**TECHNICAL + MODERN + AESTHETIC + COLOURFUL + PROFESSIONAL**
+
+Think of a premium developer portfolio rather than a basic student README.
 
 ---
 
-<div align="center">
+### IMPORTANT: HIGHLIGHT THE MAIN POINTS
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              DATA  →  INSIGHT  →  INTELLIGENCE              ║
-║                                                              ║
-║                    →  IMPACT  ←                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Make these stand out visually using coloured text, gradient badges, glowing borders, icons or highlighted cards:
 
-</div>
+**SAKSHI KUMARI**
 
-## `01` // WHO AM I?
+**DATA SCIENCE STUDENT**
 
-<div align="center">
+**ARTIFICIAL INTELLIGENCE**
 
-### 👩‍💻 `Sakshi Kumari`
+**MACHINE LEARNING**
+
+**COMPUTER VISION**
+
+**PYTHON**
+
+**JAVA**
+
+**DSA**
+
+**AR SMART MAINTENANCE ASSISTANT**
+
+**DATA SCIENCE & BIG DATA ANALYSIS CLUB**
+
+Do not highlight every word. The purpose of colour is to guide the visitor's eyes toward the most important information.
+
+---
+
+# 1. HERO / HEADER
+
+Create a visually impressive header with:
+
+**SAKSHI KUMARI**
+
+Subtitle:
+
+**DATA SCIENCE STUDENT • AI ENTHUSIAST • PROBLEM SOLVER**
+
+Add a subtle animated typing effect with phrases such as:
+
+`Data Science Student`
+`AI & Computer Vision Enthusiast`
+`Python | Java | DSA`
+`Building Data-Driven Solutions`
+
+Use a dark gradient background with a **subtle cyan → purple glow**.
+
+Add GitHub, LinkedIn, LeetCode and Email buttons.
+
+Keep the buttons colourful but coordinated.
+
+---
+
+# 2. IDENTITY SECTION
+
+Keep the existing:
+
+**01 // WHO AM I?**
+
+But redesign it into a clean modern card.
+
+Show:
+
+**Sakshi Kumari**
 
 **Data Science Student • AI Enthusiast • Problem Solver**
 
-</div>
+Highlight:
 
-```python
-class Sakshi:
+`Data Science`
+`AI`
+`Machine Learning`
+`Computer Vision`
+`DSA`
 
-    name = "Sakshi Kumari"
-    role = "Data Science Student"
-    education = "B.Tech CSE | IILM University"
-    graduation = 2027
+Use small colourful badges rather than large blocks of text.
 
-    interests = [
-        "Data Science",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Machine Learning",
-        "Data Structures & Algorithms"
-    ]
-
-    languages = [
-        "Python",
-        "Java"
-    ]
-
-    databases = [
-        "MySQL",
-        "Oracle",
-        "MongoDB"
-    ]
-
-    mindset = "Learn → Experiment → Build → Improve"
-```
-
-> I enjoy exploring how **data, algorithms and intelligent systems** can be transformed into practical solutions for real-world problems.
+Keep the Python-style profile representation because it gives the README a technical identity.
 
 ---
 
-## `02` // CURRENTLY BUILDING
+# 3. CURRENTLY BUILDING
 
-<div align="center">
+Make this section visually prominent because the **AR Smart Maintenance Assistant** is the main/major project.
+
+Title:
+
+**02 // CURRENTLY BUILDING**
+
+Create a large featured project card:
 
 ### 🥽 AR SMART MAINTENANCE ASSISTANT
 
 `COMPUTER VISION` `AI` `AUGMENTED REALITY`
 
-<br>
+Use a subtle glowing border around this card.
+
+Keep the architecture:
 
 ```text
-                    📷 CAMERA
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ COMPUTER VISION │
-              │   DETECTION     │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   MAINTENANCE   │
-              │    KNOWLEDGE    │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │  AR GUIDANCE    │
-              │  LABELS + ARROWS│
-              └─────────────────┘
+CAMERA
+   ↓
+COMPUTER VISION
+   ↓
+DETECTION
+   ↓
+MAINTENANCE KNOWLEDGE
+   ↓
+AR GUIDANCE
 ```
 
-**Goal:** Build an intelligent assistant that can identify machine components/problems through computer vision and provide contextual maintenance guidance using AR overlays.
-
-</div>
+Make the project title and technology badges more colourful than the surrounding text.
 
 ---
 
-## `03` // TECH STACK
+# 4. TECH STACK
 
-<div align="center">
+Create a beautiful technology grid rather than a plain list.
+
+Categories:
 
 ### 🧠 DATA & AI
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-07111F?style=for-the-badge&logo=numpy&logoColor=4DABF7"/>
-<img src="https://img.shields.io/badge/Pandas-07111F?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Jupyter-07111F?style=for-the-badge&logo=jupyter&logoColor=F37726"/>
-<img src="https://img.shields.io/badge/Kaggle-07111F?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
-
-<br><br>
+Python
+Jupyter
+Kaggle
 
 ### 💻 PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark"/>
-
-<br><br>
+Python
+Java
 
 ### 🗄️ DATABASE
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Oracle-07111F?style=for-the-badge&logo=oracle&logoColor=F80000"/>
-
-<br><br>
+MySQL
+Oracle
+MongoDB
 
 ### 🌐 WEB
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
-
-<br><br>
+HTML
+CSS
 
 ### ⚙️ TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+Git
+GitHub
 
-</div>
+Use real technology icons.
 
----
+Each technology should appear inside a small clean card/badge with a subtle hover/glow effect.
 
-## `04` // DATA SCIENCE PIPELINE
-
-<div align="center">
-
-```text
-       ┌──────────────┐
-       │     DATA     │
-       └──────┬───────┘
-              │
-              ▼
-     ┌────────────────┐
-     │ DATA CLEANING  │
-     └───────┬────────┘
-             │
-             ▼
-     ┌────────────────┐
-     │ DATA EXPLORATION│
-     └───────┬────────┘
-             │
-             ▼
-     ┌────────────────┐
-     │    ANALYSIS    │
-     └───────┬────────┘
-             │
-             ▼
-     ┌────────────────┐
-     │    INSIGHTS    │
-     └───────┬────────┘
-             │
-             ▼
-     ┌────────────────┐
-     │   ML / AI      │
-     └───────┬────────┘
-             │
-             ▼
-     ┌────────────────┐
-     │ REAL-WORLD     │
-     │   SOLUTION     │
-     └────────────────┘
-```
-
-</div>
+Use different accent colours for different categories, but keep them visually consistent.
 
 ---
 
-## `05` // PROJECT LAB
+# 5. DATA SCIENCE PIPELINE
 
-<table>
-<tr>
+Keep the existing pipeline:
 
-<td width="50%" valign="top">
+**DATA → DATA CLEANING → DATA EXPLORATION → ANALYSIS → INSIGHTS → ML/AI → REAL-WORLD SOLUTION**
 
-### 🥽 AR Maintenance Assistant
+Make it visually attractive with:
+
+* glowing connection lines
+* coloured nodes
+* subtle gradient cards
+* small icons
+
+Do not make it too large.
+
+---
+
+# 6. PROJECT LAB
+
+Create a modern **2 × 2 project card layout**.
+
+Featured project should be slightly larger or visually highlighted:
+
+### 🥽 AR Smart Maintenance Assistant
 
 **AI × Computer Vision × AR**
 
-An intelligent maintenance assistant designed to detect machine components/problems and provide visual maintenance guidance.
-
-`AI` `Computer Vision` `AR`
-
-</td>
-
-<td width="50%" valign="top">
+Then:
 
 ### 🌱 Crop Disease Detection
 
 **ML × Agriculture × Data**
 
-Machine learning project using Kaggle datasets and Jupyter Notebook for crop leaf disease detection.
-
-`Python` `ML` `Kaggle`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ### 📰 Fake News Detection
 
-**ML × NLP × Classification**
-
-Machine learning project focused on identifying potentially misleading or fake news content.
-
-`Python` `ML` `NLP`
-
-</td>
-
-<td width="50%" valign="top">
+**ML × Classification**
 
 ### 🅿️ Get My Park
 
 **Web × Problem Solving**
 
-Web application designed to help users find and reserve nearby parking spaces.
+Use:
 
-`Python` `Java` `HTML`
+* glassmorphism
+* subtle gradients
+* colourful technology tags
+* hover animations
+* clean descriptions
 
-</td>
+The AR project should have a stronger accent border because it is the main project.
 
-</tr>
-</table>
-
----
-
-## `06` // KNOWLEDGE MATRIX
-
-<div align="center">
-
-| DOMAIN             | TECHNOLOGIES / CONCEPTS              |
-| :----------------- | :----------------------------------- |
-| 📊 Data Science    | Data Analysis • ML • Data Processing |
-| 🐍 Programming     | Python • Java                        |
-| 🧠 CS Fundamentals | DSA • DBMS                           |
-| 🤖 AI              | Machine Learning • Computer Vision   |
-| 🗄️ Databases      | MySQL • Oracle • MongoDB             |
-| 🌐 Web             | HTML • CSS                           |
-| 🛠️ Tools          | Git • GitHub • Kaggle • Jupyter      |
-
-</div>
+Do not invent additional technologies or features that are not already supported by the content.
 
 ---
 
-## `07` // GITHUB ACTIVITY
+# 7. KNOWLEDGE MATRIX
 
-<div align="center">
+Keep the existing knowledge matrix but make it more visually appealing.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-kumari23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&bg_color=050816"/>
+Use small icons and coloured category labels:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-kumari23&layout=compact&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=050816"/>
+📊 Data Science
+🐍 Programming
+🧠 CS Fundamentals
+🤖 AI
+🗄️ Databases
+🌐 Web
+🛠️ Tools
 
-</div>
-
----
-
-## `08` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Sakshi-kumari23&hide_border=true&background=050816&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-kumari23&bg_color=050816&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
+Use subtle alternating dark shades instead of a plain table.
 
 ---
 
-## `09` // LEETCODE
+# 8. GITHUB + LEETCODE
 
-<div align="center">
+Create a clean coding/analytics section.
 
-<a href="https://leetcode.com/u/Sakshi2923/">
+Title:
 
-<img src="https://img.shields.io/badge/DSA%20JOURNEY-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+**CODE • BUILD • IMPROVE**
 
-</a>
+Display:
 
-<br><br>
+* GitHub statistics
+* Contribution graph
+* GitHub streak
+* LeetCode profile
 
-<img src="https://leetcard.jacoblin.cool/Sakshi2923?theme=dark&font=Karma&ext=heatmap" width="500"/>
+Use the same cyan/purple accent palette.
 
-</div>
-
----
-
-## `10` // ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-kumari23&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=2&column=4"/>
-
-</div>
-
-<br>
-
-* 🥇 **1st Position** — Marketing Mania Quiz & Brand Pictionary
-* 🎖️ **NCC "A" Certificate**
-* 👩‍💼 **Vice President** — Data Science & Big Data Analysis Club
-* 💻 **Core Member** — Coding Club & Social Media Team
-* 🚀 **Hackathon Coordinator**
+Do not fabricate statistics.
 
 ---
 
-## `11` // LEARNING TERMINAL
+# 9. ACHIEVEMENTS & LEADERSHIP
 
-```bash
-$ whoami
+Make this section visually important.
 
+Highlight:
+
+🏆 **1st Position** — Marketing Mania Quiz & Brand Pictionary
+
+🎖️ **NCC "A" Certificate**
+
+👩‍💼 **Vice President** — Data Science & Big Data Analysis Club
+
+💻 **Core Member** — Coding Club & Social Media Team
+
+🚀 **Hackathon Coordinator**
+
+Use individual achievement cards.
+
+Make **Vice President — Data Science & Big Data Analysis Club** especially visible because it directly supports the Data Science profile.
+
+---
+
+# 10. LEARNING TERMINAL
+
+Keep the terminal concept because it fits the tech aesthetic.
+
+Use:
+
+```text
+> whoami
 sakshi_kumari
 
-$ focus
-
+> focus
 Data Science
 Artificial Intelligence
 Computer Vision
@@ -375,95 +317,114 @@ DSA
 Python
 Java
 
-$ mission
-
+> mission
 Build → Experiment → Learn → Repeat
-
-$ status
-
-[████████████████████░░] 90%
 ```
+
+Add a subtle blinking cursor.
+
+Do NOT use fake progress percentages such as "90%" because they do not represent an actual measurable skill level.
 
 ---
 
-## `12` // CERTIFICATIONS
+# 11. CERTIFICATIONS
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                  CERTIFICATION LOG                  │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  ✓ Ignite                                      2025│
-│  ✓ Programming in C — Infosys Springboard     2025│
-│  ✓ Python Fundamentals — Infosys Springboard  2025│
-│  ✓ Internet of Things — Infosys Springboard    2024│
-│  ✓ Introduction to Python — Data Flair        2024│
-│  ✓ Hackathon                                  2024│
-│  ✓ Roadmap to DSA Workshop                    2024│
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+Keep the certification list.
+
+Instead of a basic text box, create a **vertical timeline** with small glowing dots.
+
+Highlight certification names using cyan/purple.
 
 ---
 
-## `13` // 2026 OBJECTIVES
+# 12. 2026 OBJECTIVES
 
-<div align="center">
+Create four small modern cards:
 
-```text
-┌────────────────┐   ┌────────────────┐
-│ 📊 DATA        │   │ 🤖 AI          │
-│                │   │                │
-│ Data Science   │   │ Machine        │
-│ Analysis       │   │ Learning       │
-│ SQL            │   │ Computer Vision│
-└────────────────┘   └────────────────┘
+📊 **DATA**
+Data Science
+Data Analysis
 
-┌────────────────┐   ┌────────────────┐
-│ 💻 CODE        │   │ 🚀 CAREER      │
-│                │   │                │
-│ DSA            │   │ Projects       │
-│ Python         │   │ Placements     │
-│ Java           │   │ Internships    │
-└────────────────┘   └────────────────┘
-```
+🤖 **AI**
+Machine Learning
+Computer Vision
 
-</div>
+💻 **CODE**
+DSA
+Python
+Java
+
+🚀 **CAREER**
+Projects
+Placements
+Internships
+
+Use subtle colour differences between the four cards.
 
 ---
 
-## `14` // CONNECT
+# 13. CONNECT
 
-<div align="center">
+Create a clean final section:
 
-<a href="https://github.com/Sakshi-kumari23">
-<img src="https://img.shields.io/badge/01_GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=050816"/>
-</a>
+**LET'S CONNECT**
 
-<a href="https://www.linkedin.com/in/sakshi-rajput-7069082a0">
-<img src="https://img.shields.io/badge/02_LINKEDIN-60A5FA?style=for-the-badge&logo=linkedin&logoColor=050816"/>
-</a>
+Use attractive buttons for:
 
-<a href="https://leetcode.com/u/Sakshi2923/">
-<img src="https://img.shields.io/badge/03_LEETCODE-FACC15?style=for-the-badge&logo=leetcode&logoColor=050816"/>
-</a>
+GitHub
+LinkedIn
+LeetCode
+Email
 
-<a href="mailto:sakshisingh231204@gmail.com">
-<img src="https://img.shields.io/badge/04_EMAIL-F472B6?style=for-the-badge&logo=gmail&logoColor=050816"/>
-</a>
+Finish with:
 
-<br><br>
+**Curiosity → Data → Intelligence → Impact**
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   "Curiosity → Data → Intelligence → Impact"         │
-│                                                      │
-│              Thanks for visiting! ✦                 │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+---
 
-</div>
+# FINAL DESIGN RULES
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,70:312E81,100:06B6D4&height=140&section=footer"/>
+The most important requirement is:
+
+### **COLOURFUL, BUT NOT TOO MUCH.**
+
+Use colour to **highlight**, not to decorate everything.
+
+The visual hierarchy should be:
+
+**1. Sakshi Kumari**
+↓
+**2. Data Science / AI identity**
+↓
+**3. AR Smart Maintenance Assistant**
+↓
+**4. Tech Stack**
+↓
+**5. Projects**
+↓
+**6. Coding / GitHub**
+↓
+**7. Leadership & Achievements**
+
+Use plenty of clean spacing.
+
+Use rounded cards, subtle shadows, gradient borders and small glowing effects.
+
+Avoid:
+
+* excessive neon
+* rainbow colours
+* childish graphics
+* too many emojis
+* huge paragraphs
+* clutter
+* fake skills
+* fake statistics
+* unnecessary technologies
+* overly complicated animations
+
+The final README should immediately communicate:
+
+**"This is a Data Science student who is interested in AI, Computer Vision and building practical technology projects."**
+
+Make it look **premium, recruiter-friendly, modern and memorable**, while keeping the content authentic to the provided profile.
