@@ -1,406 +1,324 @@
-Redesign my existing GitHub README/portfolio using the content already provided.
+Create a **highly attractive, premium, modern and recruiter-focused GitHub profile README for Sakshi Kumari** using the information from my existing README/resume.
 
-I want the design to be **attractive, modern, tech-based, slightly colourful, and premium**, but **NOT overly colourful or excessively neon**.
+The goal is to make the profile look **exceptionally polished and memorable to recruiters**, while remaining truthful to my actual skills, projects and experience.
 
-## MAIN IDENTITY
+I am a **B.Tech Computer Science Engineering student and Data Science student**, graduating in 2027.
 
-The portfolio should clearly present me as a:
+## CORE BRANDING
 
-**DATA SCIENCE STUDENT**
+My primary identity must be:
 
-My primary focus should be:
+### **DATA SCIENCE STUDENT**
+
+My main professional areas should be:
 
 **Data Science • Data Analysis • Machine Learning • Python • DSA • Computer Vision**
 
-Do NOT present me primarily as an AI student or AI developer.
+Do NOT brand me primarily as an AI Engineer, Full Stack Developer, DevOps Engineer, or Web Developer.
 
-AI should not be a major branding element in the hero section.
+AI should NOT be a major heading or identity element.
 
 ---
 
-## VISUAL STYLE
+# 🎨 DESIGN DIRECTION
 
-Use a **dark futuristic Data Science / technology aesthetic** with:
+Create a **futuristic, high-end technology aesthetic**.
 
-* Deep black / navy background
+Use:
+
+* Deep black / dark navy background
 * Cyan
-* Purple / violet
 * Electric blue
+* Violet / purple
 * Very subtle pink accents
-* Soft gradients
-* Glassmorphism cards
-* Subtle glow effects
-* Clean rounded sections
+* Smooth gradients
+* Glassmorphism
+* Thin glowing borders
 * Modern typography
-* Minimal animations
+* Data-inspired graphics
+* Minimal motion/animation
 
-Use colour mainly to **highlight important information**, not everywhere.
+### IMPORTANT:
 
-The overall look should feel:
+Do NOT make the entire README neon.
 
-**DATA-DRIVEN + TECHNICAL + MODERN + AESTHETIC + PROFESSIONAL**
+Use colour strategically to highlight:
 
-Keep approximately:
+**my name → Data Science identity → important skills → featured project → achievements**
 
-**80% clean professional design + 20% colourful highlights**
+The overall balance should be approximately:
+
+**75–80% clean dark professional design**
++
+**20–25% colourful highlights**
+
+The result should feel like a **premium technology portfolio**, not a colourful school project.
 
 ---
 
-## IMPORTANT POINTS TO HIGHLIGHT
+# 🚀 HERO HEADER
 
-Make these visually prominent:
+Create a large, visually impressive header.
 
-**SAKSHI KUMARI**
+Display:
+
+# SAKSHI KUMARI
+
+Under it:
 
 **DATA SCIENCE STUDENT**
 
-**DATA ANALYSIS**
+Then a smaller line:
 
-**MACHINE LEARNING**
+**Data Science • Data Analysis • Machine Learning • Computer Vision**
 
-**PYTHON**
+Use a futuristic gradient/cyan-purple visual treatment.
 
-**JAVA**
-
-**DSA**
-
-**COMPUTER VISION**
-
-**AR SMART MAINTENANCE ASSISTANT**
-
-Use gradient text, colourful badges, subtle glowing borders and clean cards to highlight them.
-
-Do not highlight every word.
-
----
-
-## HERO SECTION
-
-Create a strong, clean hero section with:
-
-### SAKSHI KUMARI
-
-**Data Science Student • Data Analyst Enthusiast • Problem Solver**
-
-Use a subtle typing animation:
+Add a professional typing animation with:
 
 `Data Science Student`
 `Data Analysis Enthusiast`
 `Python | Java | DSA`
 `Machine Learning Explorer`
-`Turning Data into Insights`
+`Computer Vision Enthusiast`
+`Building Data-Driven Solutions`
 
-Add attractive buttons for:
+Add elegant buttons for:
 
 **GitHub**
 **LinkedIn**
 **LeetCode**
 **Email**
 
-Use a subtle background inspired by:
-
-* data points
-* charts
-* datasets
-* connected nodes
-* analytical patterns
-
-Keep it elegant and not distracting.
+Use matching colours rather than four unrelated colours.
 
 ---
 
-## ABOUT ME
+# 📊 HERO VISUAL
 
-Create a stylish glassmorphism section.
+Instead of a generic developer graphic, create a subtle **Data Science visual** around the hero:
 
-Highlight:
+```text
+DATA
+  ↓
+ANALYZE
+  ↓
+INSIGHT
+  ↓
+MODEL
+  ↓
+IMPACT
+```
 
-* B.Tech Computer Science Engineering
-* IILM University
-* Graduation: 2027
+Use glowing nodes, connecting lines and small data-particle effects.
+
+Keep it subtle.
+
+---
+
+# 👩‍💻 ABOUT ME
+
+Create a premium glassmorphism card:
+
+## `01 // ABOUT ME`
+
+Display:
+
+**Sakshi Kumari**
+**Data Science Student**
+
+B.Tech Computer Science Engineering
+IILM University
+2023–2027
+
+Write a concise professional introduction focused on:
+
 * Data Science
 * Data Analysis
 * Machine Learning
 * Computer Vision
+* Problem Solving
 * DSA
+* Building practical projects
 
-Use colourful keywords and small badges.
+Use coloured highlights for important keywords.
 
-Keep the technical/Python-style identity section because it gives the profile a developer feel.
+Avoid a huge paragraph.
 
 ---
 
-## CURRENTLY BUILDING
+# 💻 TECH IDENTITY
 
-Make the **AR Smart Maintenance Assistant Using Computer Vision** the main featured project.
+Create a stylish technical panel showing:
 
-Highlight:
+```text
+ROLE        → DATA SCIENCE STUDENT
+FOCUS       → DATA + ANALYSIS + ML
+LANGUAGES   → PYTHON + JAVA
+CORE        → DSA + DBMS
+VISION      → COMPUTER VISION
+TOOLS       → GITHUB + JUPYTER + KAGGLE
+```
+
+Make this section look like a futuristic developer/data terminal.
+
+---
+
+# 🧠 TECH STACK
+
+Create a visually impressive technology section.
+
+## DATA SCIENCE
+
+Python
+Jupyter Notebook
+Kaggle
+
+## PROGRAMMING
+
+Python
+Java
+
+## MACHINE LEARNING / COMPUTER VISION
+
+Machine Learning
+Computer Vision
+
+## DATABASES
+
+MySQL
+Oracle
+MongoDB
+
+## CORE COMPUTER SCIENCE
+
+DSA
+DBMS
+
+## WEB
+
+HTML
+CSS
+
+## TOOLS
+
+Git
+GitHub
+
+Use official technology icons wherever available.
+
+Make the icons/cards slightly colourful.
+
+Do NOT add technologies just to make the portfolio look impressive.
+
+Only show technologies supported by my actual information.
+
+---
+
+# 🥽 FEATURED PROJECT
+
+Make this the **largest and most visually impressive project section**:
+
+## AR SMART MAINTENANCE ASSISTANT USING COMPUTER VISION
+
+Use tags:
 
 `COMPUTER VISION`
 `MACHINE LEARNING`
 `AUGMENTED REALITY`
 
-Show the workflow:
+Create a premium project card with a subtle cyan/purple gradient border.
 
-**Camera Input → Computer Vision → Detection → Maintenance Knowledge → AR Guidance**
-
-Give this project a larger, premium card with a subtle gradient border.
-
-Do not make AI the primary branding of this project.
-
----
-
-## TECH STACK
-
-Create an attractive icon-based technology grid.
-
-### DATA SCIENCE & ANALYSIS
-
-* Python
-* Jupyter Notebook
-* Kaggle
-
-### PROGRAMMING
-
-* Python
-* Java
-
-### MACHINE LEARNING / COMPUTER VISION
-
-* Machine Learning
-* Computer Vision
-
-### DATABASES
-
-* MySQL
-* Oracle
-* MongoDB
-
-### WEB
-
-* HTML
-* CSS
-
-### CORE
-
-* DSA
-* DBMS
-
-### TOOLS
-
-* Git
-* GitHub
-
-Use colourful technology icons and subtle hover effects.
-
-Do not add technologies that are not supported by my provided information.
-
----
-
-## DATA SCIENCE PIPELINE
-
-Create a visually attractive pipeline:
-
-**DATA → CLEANING → EXPLORATION → ANALYSIS → INSIGHTS → MACHINE LEARNING → SOLUTION**
-
-Use cyan and purple gradient nodes with connecting lines.
-
-This should be one of the main visual elements of the portfolio because the portfolio is focused on **Data Science**.
-
----
-
-## PROJECTS
-
-Create modern glassmorphism project cards for:
-
-### 🥽 AR Smart Maintenance Assistant
-
-**Computer Vision × Machine Learning × AR**
-
-### 🌱 Crop Disease Detection
-
-**Machine Learning × Agriculture × Data**
-
-### 📰 Fake News Detection
-
-**Machine Learning × Classification**
-
-### 🅿️ Get My Park
-
-**Web × Problem Solving**
-
-Make the AR Maintenance Assistant slightly more prominent because it is my major project.
-
-Do not invent technologies, features or statistics.
-
----
-
-## KNOWLEDGE MATRIX
-
-Create a clean visual matrix:
-
-📊 **Data Science**
-Data Analysis • Machine Learning • Data Processing
-
-🐍 **Programming**
-Python • Java
-
-🧠 **Computer Science**
-DSA • DBMS
-
-👁️ **Computer Vision**
-Computer Vision
-
-🗄️ **Databases**
-MySQL • Oracle • MongoDB
-
-🌐 **Web**
-HTML • CSS
-
-🛠️ **Tools**
-Git • GitHub • Kaggle • Jupyter
-
----
-
-## GITHUB & LEETCODE
-
-Create a section titled:
-
-**CODE • ANALYZE • BUILD • IMPROVE**
-
-Show:
-
-* GitHub statistics
-* Contribution graph
-* GitHub streak
-* LeetCode profile
-
-Use the same dark + cyan + purple visual theme.
-
-Do not fabricate statistics.
-
----
-
-## ACHIEVEMENTS & LEADERSHIP
-
-Create attractive cards for:
-
-🏆 **1st Position** — Marketing Mania Quiz & Brand Pictionary
-
-🎖️ **NCC "A" Certificate**
-
-👩‍💼 **Vice President** — Data Science & Big Data Analysis Club
-
-💻 **Core Member** — Coding Club & Social Media Team
-
-🚀 **Hackathon Coordinator**
-
-Make the **Vice President — Data Science & Big Data Analysis Club** role particularly noticeable because it strongly supports my Data Science profile.
-
----
-
-## CURRENTLY LEARNING
-
-Create a futuristic terminal:
+Show the system visually:
 
 ```text
-> focus
-
-Data Science
-Data Analysis
-Machine Learning
-Computer Vision
-DSA
-Python
-Java
-
-> mission
-
-Learn → Analyze → Build → Improve
+        📷 CAMERA INPUT
+              ↓
+      ┌─────────────────┐
+      │ COMPUTER VISION │
+      │    DETECTION    │
+      └────────┬────────┘
+               ↓
+      ┌─────────────────┐
+      │   MAINTENANCE   │
+      │    KNOWLEDGE    │
+      └────────┬────────┘
+               ↓
+      ┌─────────────────┐
+      │   AR GUIDANCE   │
+      │ LABELS + ARROWS │
+      └─────────────────┘
 ```
 
-Add a subtle blinking cursor.
+Description:
 
-Do not use fake skill percentages.
+"An intelligent maintenance assistant designed to identify machine components or problems through computer vision and provide contextual maintenance guidance through AR overlays."
 
----
-
-## CERTIFICATIONS
-
-Display certifications using a clean timeline/card layout.
-
-Use subtle cyan and purple highlights for certification names.
+Make this project visually dominant because it is my major project.
 
 ---
 
-## 2026 OBJECTIVES
+# 🌱 PROJECT LAB
 
-Create four clean colourful cards:
+Create premium project cards for:
 
-### 📊 DATA
+### Crop Disease Detection
 
-Data Science
-Data Analysis
+Machine learning project using Kaggle datasets and Jupyter Notebook for crop leaf disease detection.
 
-### 📈 ML
+`PYTHON` `MACHINE LEARNING` `KAGGLE`
 
-Machine Learning
-Computer Vision
+### Fake News Detection
 
-### 💻 CODE
+Machine learning project focused on identifying potentially misleading or fake news content.
 
-DSA
-Python
-Java
+`PYTHON` `MACHINE LEARNING`
 
-### 🚀 CAREER
+### Get My Park
 
-Projects
-Placements
-Internships
+Web application designed to help users find and reserve nearby parking spaces.
 
----
+`PYTHON` `JAVA` `HTML`
 
-## CONTACT
+Use a **2×2 card layout**, with the AR project as the featured large card.
 
-Create a premium:
-
-**LET'S CONNECT**
-
-section with:
-
-GitHub
-LinkedIn
-LeetCode
-Email
-
-Finish with:
-
-**Curiosity → Data → Insights → Impact**
+Use subtle hover animations.
 
 ---
 
-## FINAL DESIGN REQUIREMENT
+# 📈 DATA SCIENCE PIPELINE
 
-The portfolio must immediately communicate:
+Create a visually impressive horizontal/vertical pipeline:
 
-### **"I am a Data Science student who enjoys working with data, analysis, machine learning and practical technology projects."**
+```text
+DATA
+  ↓
+DATA CLEANING
+  ↓
+EXPLORATION
+  ↓
+ANALYSIS
+  ↓
+INSIGHTS
+  ↓
+MACHINE LEARNING
+  ↓
+REAL-WORLD SOLUTION
+```
 
-Do NOT make the portfolio look like an AI Engineer portfolio.
+Use gradient nodes:
 
-Avoid:
+**cyan → blue → purple**
 
-* AI-focused branding
-* Excessive neon
-* Rainbow colours
-* Too many emojis
-* Excessive animations
-* Clutter
-* Huge paragraphs
-* Childish graphics
-* Fake skills
-* Fake statistics
-* Fake experience
-* Unverified technologies
+This should visually reinforce that my profile is centered around Data Science.
 
-The final design should be **colourful enough to be attractive, but restrained enough to remain professional and recruiter-friendly.**
+---
+
+# 📊 GITHUB ANALYTICS
+
+Create a professional analytics dashboard containing:
+
+* GitHub Stats
+* Top Languages
+* Contribution Streak
+* Contribution Graph
