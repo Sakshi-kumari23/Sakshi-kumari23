@@ -1,207 +1,359 @@
-Create a **premium, highly attractive, modern tech portfolio** for **Sakshi Kumari**, a **B.Tech Computer Science student specializing in Data Science**, using the information provided in my resume and reference files.
+<!-- ===================== HEADER ===================== -->
 
-Keep the **same overall structure, sections, information, and concept as the reference prompt/design I provided**, but improve the visual quality, layout, hierarchy, and overall professional impact.
+<div align="center">
 
-### Design Direction
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Sakshi%20Kumari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=57&descSize=18" width="100%"/>
 
-Use a **futuristic Data Science + technology aesthetic**.
+<p>
+  <a href="https://github.com/Sakshi-kumari23">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sakshi-rajput-7069082a0">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Sakshi2923/">
+    <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:sakshisingh231204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-* Dark black/deep navy background
-* Modern glassmorphism cards
-* Subtle gradients
-* Thin glowing borders
-* Clean futuristic typography
-* Smooth hover effects and subtle animations
-* Use **cyan, electric blue, violet/purple and very small amounts of pink/magenta only as accent colors**
-* Keep the portfolio **mostly dark and professional**, with colors used mainly to highlight important information
-* Avoid excessive neon, excessive gradients, or a childish/gaming appearance
-* Make it look **premium, sophisticated, clean, and recruiter-friendly**
-* Strong visual hierarchy and generous spacing
-* Use subtle **data-inspired elements** such as nodes, data points, graphs, grids, pipelines, dashboards, and flowing connections
-* The design should feel like a **modern Data Science portfolio**, not a generic student portfolio
+<img src="https://komarev.com/ghpvc/?username=Sakshi-kumari23&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
 
-### Hero Section
+</div>
 
-Create a strong first impression with:
+<br>
 
-**Sakshi Kumari**
+<!-- ===================== TYPING ANIMATION ===================== -->
 
-**Data Science Student**
+<div align="center">
 
-Short supporting line focused on:
-**Data • Analysis • Problem Solving • Technology**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Data+Science+Student;Python+%7C+Java+%7C+Databases;Problem+Solving+%7C+DSA;Turning+Data+Into+Insights;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-Add professional links for:
+</div>
 
-* GitHub
-* LinkedIn
-* LeetCode
-* Email
+---
 
-Use attractive modern icons/badges with subtle hover animations.
+## <span style="color:#60A5FA">👩‍💻 About Me</span>
 
-### About Me
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-Create a clean and visually engaging **About Me** section based strictly on my resume.
+I'm **Sakshi Kumari**, a **Computer Science Engineering student** at **IILM University, Greater Noida**, with a strong interest in **Data Science, problem-solving, databases, and technology**.
 
-Highlight:
+I enjoy understanding problems, working with data and building practical solutions while continuously improving my technical skills.
 
-* B.Tech Computer Science Engineering
-* Data Science interest
-* Python and Java
-* Database knowledge
-* DSA and DBMS
-* Problem-solving
-* Project development
-* Interest in data-driven technology and scalable solutions
+* 🎓 **Education:** B.Tech in Computer Science Engineering
+* 📊 **Specialization:** **Data Science**
+* 💻 **Programming:** Java & Python
+* 🗄️ **Databases:** MySQL, Oracle & MongoDB
+* 🧠 **Core Concepts:** DSA & DBMS
+* 🛠️ **Tools:** Git, GitHub, Kaggle & Jupyter Notebook
+* 🚀 **Currently Working On:** AR Smart Maintenance Assistant using Computer Vision
+* 🌱 **Currently Improving:** Data Science, DSA & problem-solving
+* 👩‍💼 **Leadership:** Vice President — Data Science & Big Data Analysis Club
+* 🤝 **Open To:** Learning, collaboration & real-world opportunities
+* 📫 **Email:** [sakshisingh231204@gmail.com](mailto:sakshisingh231204@gmail.com)
 
-Do not exaggerate my expertise or add technologies that are not present in my provided information.
+<br clear="right"/>
 
-### Technical Skills
+---
 
-Present my skills using attractive **glass-style cards / categorized sections**.
+<div align="center">
 
-Include only the technologies and skills supported by my resume.
+### 📊 **DATA → ANALYZE → SOLVE → BUILD → IMPROVE**
 
-Categories can include:
+</div>
 
-* Programming
-* Databases
-* Web Technologies
-* Tools & Platforms
-* Core Computer Science
+---
 
-Make the important skills visually stand out without making the section overcrowded.
+## <span style="color:#60A5FA">🛠️ Technical Skills</span>
 
-### Featured Project
+### 👩‍💻 Programming
 
-Make my **“Augmented Reality Smart Maintenance Assistant Using Computer Vision”** the visual centerpiece of the portfolio.
+<p>
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15"/>
+</p>
 
-Present it as a premium featured project card.
+### 🌐 Web Technologies
 
-Show the workflow visually:
+<p>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
+</p>
 
-**Camera Input → Computer Vision → Maintenance Knowledge → AR Guidance**
+### 🗄️ Database Management
 
-Highlight the project's purpose and functionality in a concise, professional way.
+<p>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=4ADE80"/>
+</p>
 
-Use a futuristic technical visual around this project, such as:
+### 📊 Data & Development Tools
 
-* Computer vision detection
-* Machine/industrial component
-* AR overlay
-* Detection bounding boxes
-* Data/processing pipeline
+<p>
+<img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</p>
 
-The project should feel ambitious and industry-oriented while remaining factually accurate.
+### 🧠 Core Computer Science
 
-### Projects
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures-172554?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-312E81?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-4C1D95?style=for-the-badge&logoColor=white"/>
+</p>
 
-Create an attractive **Project Lab / Projects** section.
+---
 
-Use large modern project cards with:
+## <span style="color:#60A5FA">🚀 Featured Projects</span>
 
-* Project name
-* Short description
-* Technologies used
-* GitHub/project link if available
-* Minimal technical visual
-* Hover interaction
+<table>
+<tr>
 
-Give the **AR Smart Maintenance Assistant** the strongest visual treatment while keeping the other projects professionally presented.
+<td width="50%" valign="top">
 
-### Data Science Section
+### 🥽 AR Smart Maintenance Assistant
 
-Add a visually interesting section that represents my Data Science journey.
+**Computer Vision + Augmented Reality**
 
-Use a clean pipeline-style visual such as:
+A major project focused on assisting machine maintenance by combining **computer vision**, maintenance knowledge and **AR-based guidance**.
 
-**DATA → ANALYZE → INSIGHT → MODEL → IMPACT**
+**Workflow**
 
-Keep this section realistic and do not claim advanced expertise that is not supported by my resume.
+`Camera Input → Computer Vision → Maintenance Knowledge → AR Guidance`
 
-### GitHub / Coding Section
+**Focus:** Computer Vision · Smart Maintenance · Augmented Reality
 
-Add a professional analytics-style section containing relevant GitHub and coding activity.
+</td>
 
-Use:
+<td width="50%" valign="top">
 
-* GitHub contribution/activity visualization
-* Coding statistics where available
-* LeetCode profile
-* Clean analytics cards
+### 🌱 Crop Disease Detection
 
-Avoid fake statistics.
+A machine learning project developed using **Kaggle datasets and Jupyter Notebook** to detect crop leaf diseases.
 
-### Leadership & Achievements
+**Tools:** Kaggle · Jupyter Notebook · Python
 
-Create a visually strong section for:
+**Focus:** Data-driven problem solving · Machine Learning
 
-* Vice President — Data Science and Big Data Analysis Club
-* Core Member — Coding Club / Social Media Team
-* Hackathon Coordinator
-* Academic/competition achievements
-* NCC achievement
+</td>
 
-Use elegant cards or timeline-style presentation.
+</tr>
 
-### Certifications & Seminars
+<tr>
 
-Display certifications and seminars in a clean modern layout.
+<td width="50%" valign="top">
 
-Use compact cards with subtle icons and hover effects rather than making the section text-heavy.
+### 📰 Fake News Detection
 
-### Learning / Career Focus
+A project focused on detecting misleading or fake news content using a machine learning approach.
 
-Add a small futuristic **“Currently Learning / Career Focus”** section.
+**Focus:** Data · Machine Learning · Problem Solving
 
-Focus on:
+</td>
 
-* Data Science
-* Data Analysis
-* Python
-* Machine Learning concepts
-* Computer Vision through the major project
-* DSA
-* Database concepts
+<td width="50%" valign="top">
 
-Do not present me as an AI/ML engineer.
+### 🅿️ Get My Park
 
-### Contact Section
+A web application designed to help users **find and reserve nearby parking spots**.
 
-Finish with a strong but minimal CTA:
+**Tech:** Python · Java · HTML · Git · GitHub
 
-**Let’s Connect & Build Something Meaningful**
+**Focus:** Practical Web Development · User Problem Solving
 
-Include:
+</td>
 
-* Email
-* GitHub
-* LinkedIn
-* LeetCode
+</tr>
+</table>
 
-### Important Design Rules
+---
 
-The final portfolio should look:
+## <span style="color:#60A5FA">📊 My Data Science Journey</span>
 
-**Premium + Futuristic + Data-Driven + Professional + Recruiter-Friendly**
+<div align="center">
 
-It should NOT look:
+```text
+                    ┌───────────────┐
+                    │     DATA      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    EXPLORE    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    ANALYZE    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    SOLVE      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    INSIGHT    │
+                    └───────────────┘
+```
 
-* Like a basic college template
-* Overly colorful
-* Overly neon
-* Childish
-* Too crowded
-* Like a generic AI portfolio
-* Like a gaming website
+</div>
 
-Use **color strategically to highlight important information**, especially my name, Data Science identity, important skills, featured project, and key statistics.
+I'm building my foundation around **programming, databases, problem-solving, DSA and data-oriented projects**, while continuously learning and improving.
 
-Maintain excellent readability and responsive design across desktop, tablet, and mobile.
+---
 
-The overall impression should be:
+## <span style="color:#60A5FA">📈 GitHub Analytics</span>
 
-**“A serious, ambitious Data Science student with strong technical foundations and a modern approach to technology.”**
+<div align="center">
 
-Use the **actual information from my resume and provided reference files**. Do not invent skills, experience, statistics, projects, achievements, or job experience.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakshi-kumari23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB&bg_color=0B1120"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-kumari23&layout=compact&hide_border=true&title_color=60A5FA&text_color=E5E7EB&bg_color=0B1120"/>
+
+</div>
+
+---
+
+## <span style="color:#A78BFA">🔥 GitHub Streak</span>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Sakshi-kumari23&hide_border=true&background=0B1120&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+
+</div>
+
+---
+
+## <span style="color:#60A5FA">📈 Contribution Activity</span>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-kumari23&bg_color=0B1120&color=60A5FA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## <span style="color:#A78BFA">🏆 Leadership & Achievements</span>
+
+<table>
+<tr>
+<td width="50%">
+
+### 👩‍💼 Leadership
+
+**Vice President**
+Data Science & Big Data Analysis Club
+IILM University
+
+**Core Member**
+Coding Club & Social Media Team
+
+**Hackathon Coordinator**
+IILM University
+
+</td>
+
+<td width="50%">
+
+### 🏆 Achievements
+
+🥇 **1st Position** — Marketing Mania Quiz & Brand Pictionary
+
+🎖️ **NCC “A” Certificate**
+
+💻 **Hackathon Participation**
+
+📚 **DSA Workshop**
+
+</td>
+</tr>
+</table>
+
+---
+
+## <span style="color:#60A5FA">📜 Certifications</span>
+
+<div align="center">
+
+| Certification              | Platform / Organization |
+| -------------------------- | ----------------------- |
+| 🔥 Ignite                  | 2025                    |
+| 💻 Programming in C        | Infosys Springboard     |
+| 🐍 Python Fundamentals     | Infosys Springboard     |
+| 🌐 Internet of Things      | Infosys Springboard     |
+| 🐍 Introduction to Python  | Data Flair              |
+| 🏆 Hackathon               | 2024                    |
+| 🧠 Roadmap to DSA Workshop | 2024                    |
+
+</div>
+
+---
+
+## <span style="color:#A78BFA">🎯 Current Focus</span>
+
+```text
+Data Science
+     ↓
+Python & Programming
+     ↓
+Data Structures & Algorithms
+     ↓
+Database Management
+     ↓
+Data-Oriented Projects
+     ↓
+Problem Solving
+     ↓
+Real-World Technology
+```
+
+### 🚀 2026 Focus
+
+* 📊 Strengthen **Data Science fundamentals**
+* 🐍 Improve **Python & programming skills**
+* 🧠 Strengthen **DSA & problem-solving**
+* 🗄️ Improve **database knowledge**
+* 💻 Build meaningful **real-world projects**
+* 🚀 Develop a strong **GitHub portfolio**
+* 🤝 Explore collaborative and professional opportunities
+
+---
+
+## <span style="color:#60A5FA">🌐 Connect With Me</span>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sakshi-rajput-7069082a0">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Sakshi2923/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sakshi-kumari23">
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sakshisingh231204@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ **Learn • Analyze • Build • Improve**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=120&section=footer"/>
+
+**Thanks for visiting my GitHub profile! 🚀**
+
+</div>
