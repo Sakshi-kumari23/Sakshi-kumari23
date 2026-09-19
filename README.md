@@ -1,45 +1,62 @@
-Redesign my GitHub profile README using the content provided, but make the design **more attractive, modern, colourful and premium while still looking professional and tech-focused**.
+Redesign my existing GitHub README/portfolio using the content already provided.
 
-### OVERALL STYLE
+I want the design to be **attractive, modern, tech-based, slightly colourful, and premium**, but **NOT overly colourful or excessively neon**.
 
-Create a **modern Data Science + AI + technology aesthetic**.
+## MAIN IDENTITY
 
-Use a dark background such as:
+The portfolio should clearly present me as a:
 
-* Deep navy
-* Black
-* Dark charcoal
+**DATA SCIENCE STUDENT**
 
-Use colour **selectively**, mainly for highlighting important information:
+My primary focus should be:
 
-* Electric cyan
-* Purple / violet
-* Blue
-* Small touches of pink
+**Data Science • Data Analysis • Machine Learning • Python • DSA • Computer Vision**
 
-Do NOT make the whole README neon or overly colourful.
+Do NOT present me primarily as an AI student or AI developer.
 
-The design should feel:
-
-**TECHNICAL + MODERN + AESTHETIC + COLOURFUL + PROFESSIONAL**
-
-Think of a premium developer portfolio rather than a basic student README.
+AI should not be a major branding element in the hero section.
 
 ---
 
-### IMPORTANT: HIGHLIGHT THE MAIN POINTS
+## VISUAL STYLE
 
-Make these stand out visually using coloured text, gradient badges, glowing borders, icons or highlighted cards:
+Use a **dark futuristic Data Science / technology aesthetic** with:
+
+* Deep black / navy background
+* Cyan
+* Purple / violet
+* Electric blue
+* Very subtle pink accents
+* Soft gradients
+* Glassmorphism cards
+* Subtle glow effects
+* Clean rounded sections
+* Modern typography
+* Minimal animations
+
+Use colour mainly to **highlight important information**, not everywhere.
+
+The overall look should feel:
+
+**DATA-DRIVEN + TECHNICAL + MODERN + AESTHETIC + PROFESSIONAL**
+
+Keep approximately:
+
+**80% clean professional design + 20% colourful highlights**
+
+---
+
+## IMPORTANT POINTS TO HIGHLIGHT
+
+Make these visually prominent:
 
 **SAKSHI KUMARI**
 
 **DATA SCIENCE STUDENT**
 
-**ARTIFICIAL INTELLIGENCE**
+**DATA ANALYSIS**
 
 **MACHINE LEARNING**
-
-**COMPUTER VISION**
 
 **PYTHON**
 
@@ -47,241 +64,226 @@ Make these stand out visually using coloured text, gradient badges, glowing bord
 
 **DSA**
 
+**COMPUTER VISION**
+
 **AR SMART MAINTENANCE ASSISTANT**
 
-**DATA SCIENCE & BIG DATA ANALYSIS CLUB**
+Use gradient text, colourful badges, subtle glowing borders and clean cards to highlight them.
 
-Do not highlight every word. The purpose of colour is to guide the visitor's eyes toward the most important information.
+Do not highlight every word.
 
 ---
 
-# 1. HERO / HEADER
+## HERO SECTION
 
-Create a visually impressive header with:
+Create a strong, clean hero section with:
 
-**SAKSHI KUMARI**
+### SAKSHI KUMARI
 
-Subtitle:
+**Data Science Student • Data Analyst Enthusiast • Problem Solver**
 
-**DATA SCIENCE STUDENT • AI ENTHUSIAST • PROBLEM SOLVER**
-
-Add a subtle animated typing effect with phrases such as:
+Use a subtle typing animation:
 
 `Data Science Student`
-`AI & Computer Vision Enthusiast`
+`Data Analysis Enthusiast`
 `Python | Java | DSA`
-`Building Data-Driven Solutions`
+`Machine Learning Explorer`
+`Turning Data into Insights`
 
-Use a dark gradient background with a **subtle cyan → purple glow**.
+Add attractive buttons for:
 
-Add GitHub, LinkedIn, LeetCode and Email buttons.
+**GitHub**
+**LinkedIn**
+**LeetCode**
+**Email**
 
-Keep the buttons colourful but coordinated.
+Use a subtle background inspired by:
+
+* data points
+* charts
+* datasets
+* connected nodes
+* analytical patterns
+
+Keep it elegant and not distracting.
 
 ---
 
-# 2. IDENTITY SECTION
+## ABOUT ME
 
-Keep the existing:
-
-**01 // WHO AM I?**
-
-But redesign it into a clean modern card.
-
-Show:
-
-**Sakshi Kumari**
-
-**Data Science Student • AI Enthusiast • Problem Solver**
+Create a stylish glassmorphism section.
 
 Highlight:
 
-`Data Science`
-`AI`
-`Machine Learning`
-`Computer Vision`
-`DSA`
+* B.Tech Computer Science Engineering
+* IILM University
+* Graduation: 2027
+* Data Science
+* Data Analysis
+* Machine Learning
+* Computer Vision
+* DSA
 
-Use small colourful badges rather than large blocks of text.
+Use colourful keywords and small badges.
 
-Keep the Python-style profile representation because it gives the README a technical identity.
-
----
-
-# 3. CURRENTLY BUILDING
-
-Make this section visually prominent because the **AR Smart Maintenance Assistant** is the main/major project.
-
-Title:
-
-**02 // CURRENTLY BUILDING**
-
-Create a large featured project card:
-
-### 🥽 AR SMART MAINTENANCE ASSISTANT
-
-`COMPUTER VISION` `AI` `AUGMENTED REALITY`
-
-Use a subtle glowing border around this card.
-
-Keep the architecture:
-
-```text
-CAMERA
-   ↓
-COMPUTER VISION
-   ↓
-DETECTION
-   ↓
-MAINTENANCE KNOWLEDGE
-   ↓
-AR GUIDANCE
-```
-
-Make the project title and technology badges more colourful than the surrounding text.
+Keep the technical/Python-style identity section because it gives the profile a developer feel.
 
 ---
 
-# 4. TECH STACK
+## CURRENTLY BUILDING
 
-Create a beautiful technology grid rather than a plain list.
+Make the **AR Smart Maintenance Assistant Using Computer Vision** the main featured project.
 
-Categories:
+Highlight:
 
-### 🧠 DATA & AI
+`COMPUTER VISION`
+`MACHINE LEARNING`
+`AUGMENTED REALITY`
 
-Python
-Jupyter
-Kaggle
+Show the workflow:
 
-### 💻 PROGRAMMING
+**Camera Input → Computer Vision → Detection → Maintenance Knowledge → AR Guidance**
 
-Python
-Java
+Give this project a larger, premium card with a subtle gradient border.
 
-### 🗄️ DATABASE
-
-MySQL
-Oracle
-MongoDB
-
-### 🌐 WEB
-
-HTML
-CSS
-
-### ⚙️ TOOLS
-
-Git
-GitHub
-
-Use real technology icons.
-
-Each technology should appear inside a small clean card/badge with a subtle hover/glow effect.
-
-Use different accent colours for different categories, but keep them visually consistent.
+Do not make AI the primary branding of this project.
 
 ---
 
-# 5. DATA SCIENCE PIPELINE
+## TECH STACK
 
-Keep the existing pipeline:
+Create an attractive icon-based technology grid.
 
-**DATA → DATA CLEANING → DATA EXPLORATION → ANALYSIS → INSIGHTS → ML/AI → REAL-WORLD SOLUTION**
+### DATA SCIENCE & ANALYSIS
 
-Make it visually attractive with:
+* Python
+* Jupyter Notebook
+* Kaggle
 
-* glowing connection lines
-* coloured nodes
-* subtle gradient cards
-* small icons
+### PROGRAMMING
 
-Do not make it too large.
+* Python
+* Java
+
+### MACHINE LEARNING / COMPUTER VISION
+
+* Machine Learning
+* Computer Vision
+
+### DATABASES
+
+* MySQL
+* Oracle
+* MongoDB
+
+### WEB
+
+* HTML
+* CSS
+
+### CORE
+
+* DSA
+* DBMS
+
+### TOOLS
+
+* Git
+* GitHub
+
+Use colourful technology icons and subtle hover effects.
+
+Do not add technologies that are not supported by my provided information.
 
 ---
 
-# 6. PROJECT LAB
+## DATA SCIENCE PIPELINE
 
-Create a modern **2 × 2 project card layout**.
+Create a visually attractive pipeline:
 
-Featured project should be slightly larger or visually highlighted:
+**DATA → CLEANING → EXPLORATION → ANALYSIS → INSIGHTS → MACHINE LEARNING → SOLUTION**
+
+Use cyan and purple gradient nodes with connecting lines.
+
+This should be one of the main visual elements of the portfolio because the portfolio is focused on **Data Science**.
+
+---
+
+## PROJECTS
+
+Create modern glassmorphism project cards for:
 
 ### 🥽 AR Smart Maintenance Assistant
 
-**AI × Computer Vision × AR**
-
-Then:
+**Computer Vision × Machine Learning × AR**
 
 ### 🌱 Crop Disease Detection
 
-**ML × Agriculture × Data**
+**Machine Learning × Agriculture × Data**
 
 ### 📰 Fake News Detection
 
-**ML × Classification**
+**Machine Learning × Classification**
 
 ### 🅿️ Get My Park
 
 **Web × Problem Solving**
 
-Use:
+Make the AR Maintenance Assistant slightly more prominent because it is my major project.
 
-* glassmorphism
-* subtle gradients
-* colourful technology tags
-* hover animations
-* clean descriptions
-
-The AR project should have a stronger accent border because it is the main project.
-
-Do not invent additional technologies or features that are not already supported by the content.
+Do not invent technologies, features or statistics.
 
 ---
 
-# 7. KNOWLEDGE MATRIX
+## KNOWLEDGE MATRIX
 
-Keep the existing knowledge matrix but make it more visually appealing.
+Create a clean visual matrix:
 
-Use small icons and coloured category labels:
+📊 **Data Science**
+Data Analysis • Machine Learning • Data Processing
 
-📊 Data Science
-🐍 Programming
-🧠 CS Fundamentals
-🤖 AI
-🗄️ Databases
-🌐 Web
-🛠️ Tools
+🐍 **Programming**
+Python • Java
 
-Use subtle alternating dark shades instead of a plain table.
+🧠 **Computer Science**
+DSA • DBMS
+
+👁️ **Computer Vision**
+Computer Vision
+
+🗄️ **Databases**
+MySQL • Oracle • MongoDB
+
+🌐 **Web**
+HTML • CSS
+
+🛠️ **Tools**
+Git • GitHub • Kaggle • Jupyter
 
 ---
 
-# 8. GITHUB + LEETCODE
+## GITHUB & LEETCODE
 
-Create a clean coding/analytics section.
+Create a section titled:
 
-Title:
+**CODE • ANALYZE • BUILD • IMPROVE**
 
-**CODE • BUILD • IMPROVE**
-
-Display:
+Show:
 
 * GitHub statistics
 * Contribution graph
 * GitHub streak
 * LeetCode profile
 
-Use the same cyan/purple accent palette.
+Use the same dark + cyan + purple visual theme.
 
 Do not fabricate statistics.
 
 ---
 
-# 9. ACHIEVEMENTS & LEADERSHIP
+## ACHIEVEMENTS & LEADERSHIP
 
-Make this section visually important.
-
-Highlight:
+Create attractive cards for:
 
 🏆 **1st Position** — Marketing Mania Quiz & Brand Pictionary
 
@@ -293,83 +295,79 @@ Highlight:
 
 🚀 **Hackathon Coordinator**
 
-Use individual achievement cards.
-
-Make **Vice President — Data Science & Big Data Analysis Club** especially visible because it directly supports the Data Science profile.
+Make the **Vice President — Data Science & Big Data Analysis Club** role particularly noticeable because it strongly supports my Data Science profile.
 
 ---
 
-# 10. LEARNING TERMINAL
+## CURRENTLY LEARNING
 
-Keep the terminal concept because it fits the tech aesthetic.
-
-Use:
+Create a futuristic terminal:
 
 ```text
-> whoami
-sakshi_kumari
-
 > focus
+
 Data Science
-Artificial Intelligence
+Data Analysis
+Machine Learning
 Computer Vision
 DSA
 Python
 Java
 
 > mission
-Build → Experiment → Learn → Repeat
+
+Learn → Analyze → Build → Improve
 ```
 
 Add a subtle blinking cursor.
 
-Do NOT use fake progress percentages such as "90%" because they do not represent an actual measurable skill level.
+Do not use fake skill percentages.
 
 ---
 
-# 11. CERTIFICATIONS
+## CERTIFICATIONS
 
-Keep the certification list.
+Display certifications using a clean timeline/card layout.
 
-Instead of a basic text box, create a **vertical timeline** with small glowing dots.
-
-Highlight certification names using cyan/purple.
+Use subtle cyan and purple highlights for certification names.
 
 ---
 
-# 12. 2026 OBJECTIVES
+## 2026 OBJECTIVES
 
-Create four small modern cards:
+Create four clean colourful cards:
 
-📊 **DATA**
+### 📊 DATA
+
 Data Science
 Data Analysis
 
-🤖 **AI**
+### 📈 ML
+
 Machine Learning
 Computer Vision
 
-💻 **CODE**
+### 💻 CODE
+
 DSA
 Python
 Java
 
-🚀 **CAREER**
+### 🚀 CAREER
+
 Projects
 Placements
 Internships
 
-Use subtle colour differences between the four cards.
-
 ---
 
-# 13. CONNECT
+## CONTACT
 
-Create a clean final section:
+Create a premium:
 
 **LET'S CONNECT**
 
-Use attractive buttons for:
+section with:
 
 GitHub
 LinkedIn
@@ -378,53 +376,31 @@ Email
 
 Finish with:
 
-**Curiosity → Data → Intelligence → Impact**
+**Curiosity → Data → Insights → Impact**
 
 ---
 
-# FINAL DESIGN RULES
+## FINAL DESIGN REQUIREMENT
 
-The most important requirement is:
+The portfolio must immediately communicate:
 
-### **COLOURFUL, BUT NOT TOO MUCH.**
+### **"I am a Data Science student who enjoys working with data, analysis, machine learning and practical technology projects."**
 
-Use colour to **highlight**, not to decorate everything.
-
-The visual hierarchy should be:
-
-**1. Sakshi Kumari**
-↓
-**2. Data Science / AI identity**
-↓
-**3. AR Smart Maintenance Assistant**
-↓
-**4. Tech Stack**
-↓
-**5. Projects**
-↓
-**6. Coding / GitHub**
-↓
-**7. Leadership & Achievements**
-
-Use plenty of clean spacing.
-
-Use rounded cards, subtle shadows, gradient borders and small glowing effects.
+Do NOT make the portfolio look like an AI Engineer portfolio.
 
 Avoid:
 
-* excessive neon
-* rainbow colours
-* childish graphics
-* too many emojis
-* huge paragraphs
-* clutter
-* fake skills
-* fake statistics
-* unnecessary technologies
-* overly complicated animations
+* AI-focused branding
+* Excessive neon
+* Rainbow colours
+* Too many emojis
+* Excessive animations
+* Clutter
+* Huge paragraphs
+* Childish graphics
+* Fake skills
+* Fake statistics
+* Fake experience
+* Unverified technologies
 
-The final README should immediately communicate:
-
-**"This is a Data Science student who is interested in AI, Computer Vision and building practical technology projects."**
-
-Make it look **premium, recruiter-friendly, modern and memorable**, while keeping the content authentic to the provided profile.
+The final design should be **colourful enough to be attractive, but restrained enough to remain professional and recruiter-friendly.**
